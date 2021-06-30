@@ -1,13 +1,13 @@
 // var variableName : TypeAnnotation = value;
 
-var name:string = 'Zin Ko Win';
+var name1:string = 'Zin Ko Win';
 var age:number = 19;
 
-console.log(name);
+console.log(name1);
 console.log(age);
 
-function showInfo(name:string,age:number,address:string) {
-    console.log('Name : ' + name + ', Age : ' + age + ', Address : ' + address);   
+function showInfo(name1:string,age:number,address:string) {
+    console.log('Name : ' + name1 + ', Age : ' + age + ', Address : ' + address);   
 }
 
 showInfo('Khin Suu Suu Nwe',21,'TaungGyi');
