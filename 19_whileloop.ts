@@ -12,7 +12,8 @@ var i:number = 1
 while(i<=15) { 
    if (i % 5 == 0) {   
       console.log ("The first exactly devisable by 5   between 1 and 15 is : "+i) 
-      break;     //exit the loop if the first multiple is found 
+      break;     
+      //exit the loop if the first multiple is found 
    } 
    i++ 
 } 

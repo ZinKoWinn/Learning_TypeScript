@@ -34,7 +34,7 @@ function getCountry(country:CountryCode) {
 getCountry(CountryCode.MY)
 console.log();
 
-//3. Heterogeneous Enum
+//3.Heterogeneous Enum
 // The heterogeneous enums are enums, which contains both string and numeric values.
 console.log('Heterogeneous Enum');
 
